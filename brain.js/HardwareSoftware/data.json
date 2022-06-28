@@ -1,0 +1,110 @@
+[
+  {
+    "text": "program",
+    "category": "software"
+  },
+  {
+    "text": "power supply",
+    "category": "hardware"
+  },
+  {
+    "text": "drive",
+    "category": "hardware"
+  },
+  {
+    "text": "it needs more memory",
+    "category": "hardware"
+  },
+  {
+    "text": "code",
+    "category": "software"
+  },
+  {
+    "text": "repository",
+    "category": "software"
+  },
+  {
+    "text": "javascript",
+    "category": "software"
+  },
+  {
+    "text": "microchip",
+    "category": "hardware"
+  },
+  {
+    "text": "speakers",
+    "category": "hardware"
+  },
+  {
+    "text": "headphones",
+    "category": "hardware"
+  },
+  {
+    "text": "I need to add dependencies",
+    "category": "software"
+  },
+  {
+    "text": "package manager",
+    "category": "software"
+  },
+  {
+    "text": "modules",
+    "category": "software"
+  },
+  {
+    "text": "it needs more RAM",
+    "category": "hardware"
+  },
+  {
+    "text": "this app is amazing",
+    "category": "software"
+  },
+  {
+    "text": "I need a new hard drive",
+    "category": "hardware"
+  },
+  {
+    "text": "database",
+    "category": "software"
+  },
+  {
+    "text": "I blew a fuse",
+    "category": "hardware"
+  },
+  {
+    "text": "My keyboard isn't working",
+    "category": "hardware"
+  },
+  {
+    "text": "usb thumbdrive",
+    "category": "hardware"
+  },
+  {
+    "text": "I forked that code, then cloned it to my machine",
+    "category": "software"
+  },
+  {
+    "text": "I wrote over 10,000 lines of code today",
+    "category": "software"
+  },
+  {
+    "text": "they are following me on Github now",
+    "category": "software"
+  },
+  {
+    "text": "do you use vscode or intellij?",
+    "category": "software"
+  },
+  {
+    "text": "how do I connect this fan?",
+    "category": "hardware"
+  },
+  {
+    "text": "my screen is cracked",
+    "category": "hardware"
+  },
+  {
+    "text": "do you have my charger?",
+    "category": "hardware"
+  }
+]
